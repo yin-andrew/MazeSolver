@@ -6,6 +6,7 @@ Implementation:  The maze solver utilizes the built-in java stack class to keep 
 
 Example Input:
 A 7x7 binary matrix with a path from the beginning to end:
+```
 0 0 1 0 0 0 0
 0 0 0 0 1 1 0
 0 1 1 0 0 1 0
@@ -13,8 +14,10 @@ A 7x7 binary matrix with a path from the beginning to end:
 0 1 0 0 0 0 0
 1 1 0 1 1 1 1
 0 0 0 0 0 0 0 
+```
 
 Output:
+```
 X X 1 X X X X 
 X X X X 1 1 X 
 X 1 1 X X 1 X 
@@ -22,5 +25,6 @@ X 1 1 1 X 1 1
 X 1 X X X 0 0 
 1 1 X 1 1 1 1 
 X X X X X X X
+```
 
 Note: As demonstrated here, the program does not demonstrate the optimal path or paths that lead to the end and may potentially traverse all positions, marking even paths to dead ends as traversed.  
