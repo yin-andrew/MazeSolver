@@ -1,10 +1,4 @@
-/*
-THIS CODE WAS OUR OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING
-CODE WRITTEN BY OTHER STUDENTS OR COPIED FROM ONLINE RESOURCES.
-Steven Chen and Andrew Yin
- */
-
-
+//Andrew Yin
 
 import java.util.Stack;
 import java.util.Scanner;
